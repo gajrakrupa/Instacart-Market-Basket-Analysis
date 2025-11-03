@@ -29,6 +29,7 @@ This project analyzes ***Instacart Online Grocery data*** to find which products
 
 👩‍💻 Author
 ***Krupa Gajra*** 
+
 Data Analyst | Python | Power BI  
 [LinkedIn Profile](https://www.linkedin.com/in/krupagajra/)
 📅 Year: 2025  
