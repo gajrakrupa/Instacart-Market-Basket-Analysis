@@ -38,3 +38,36 @@ Data Analyst | Python | Power BI
 
 ✨ *“Turning grocery data into smarter product insights.”* ✨
 
+---
+
+## 📸 Dashboard Previews
+
+### 🧭 Overview Dashboard : 
+This page shows overall KPIs, top departments, and customer behavior trends.
+
+![Overview Dashboard](images/dashboard_overview.png)
+
+### 💡 Insights Dashboard : 
+This page explores deeper product associations — support, confidence, and lift.
+
+![Insights Dashboard](images/dashboard_insights.png)
+
+---
+
+## 📊 Key Visuals
+
+**Top 10 Frequent Itemsets** : 
+Shows which product combinations are most common in orders.
+
+![Frequent Itemsets](images/top_frequent_itemsets.png)
+
+**Association Rules — Lift vs Confidence** : 
+Visualizes the strength and frequency of product relationships.
+
+![Lift vs Confidence](images/association_rules_lift_vs_confidence.png)
+
+**Top Departments by Orders** : 
+Highlights the most popular shopping departments.
+
+![Top Departments](images/top_departments.png)
+
