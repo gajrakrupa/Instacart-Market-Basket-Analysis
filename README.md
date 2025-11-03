@@ -14,10 +14,10 @@ This project analyzes ***Instacart Online Grocery data*** to find which products
 - **Kaggle Dataset** — Instacart Online Grocery Basket Analysis
 
 📈 Key Insights
-- 🧺 Bread & Butter have strong association (Lift = 3.2)  
-- 🍎 Fresh produce & dairy dominate frequent purchases  
-- 🕒 Most orders happen between 10–12 AM  
-- 💡 High lift values show potential product bundles
+-	Produce & Dairy are the most purchased departments
+-	Organic items (fruits and greens) dominate frequent baskets
+-	Customers mostly shop between 9 AM – 12 PM
+-	High lift values show strong cross-selling potential
 
 🧩 Files You’ll Find Here
 - `InstaCart_Online_Grocery_Basket_Analysis.ipynb` - Google Colab notebook 
