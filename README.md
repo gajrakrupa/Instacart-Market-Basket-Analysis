@@ -21,7 +21,8 @@ This project analyzes ***Instacart Online Grocery data*** to find which products
 
 🧩 Files You’ll Find Here
 - `InstaCart_Online_Grocery_Basket_Analysis.ipynb` - Google Colab notebook 
-- | `Instacart_Market_Basket_Analysis.pbix` - View Power BI Dashboard on Google Drive(https://drive.google.com/file/d/1sy5r6QQlyv9Uw6l1PDICDigLvIAQuoJH/view?usp=sharing) 
+- `Instacart_Market_Basket_Analysis.pbix` - View Power BI Dashboard on Google Drive(https://drive.google.com/file/d/1sy5r6QQlyv9Uw6l1PDICDigLvIAQuoJH/view?usp=sharing)
+- `Instacart_Market_Basket_Dashboard.pdf` - Dashboard PDF preview included for both pages.
 - `association_rules.csv` - Output file of Apriori rules 
 - `report.pdf` - Project report summary 
 - `images/` - Contains dashboard & chart screenshots 
